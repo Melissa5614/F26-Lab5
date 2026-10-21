@@ -1,7 +1,7 @@
 # Add comments before you do anything else.
 #!/usr/bin/env python3
-# Author:
-# Date:
+# Author: Melissa Aydin
+# Date: 21 Oct
 # Purpose: Catch ZeroDivisionError
 # Usage: ./lab5f.py
 

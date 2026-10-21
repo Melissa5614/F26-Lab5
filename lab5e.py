@@ -1,12 +1,13 @@
 # Add comments before you do anything else.
 
 #!/usr/bin/env python3
-# Author:
-# Date:
+# Author: Melissa Aydin
+# Date: 21 Oct
 # Purpose: Handle FileNotFoundError
 # Usage: ./lab4e.py
 
 # TO DO 1: Create text file numbers.txt as directed in readme.md file.
+
 # TO DO 2: Complete the add() functions.
 
 def add(number1, number2):
